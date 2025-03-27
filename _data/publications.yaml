@@ -1,7 +1,7 @@
 papers:
   - title: "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
     year: Preprints
-    authors: "<b><u>Seungone Kim</u></b>, Ian Wu, Jinu Lee, Xiang Yue, Seongyun Lee, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Sean Welleck, Graham Neubig"
+    authors: "<b><u>Seungone Kim</u></b>, Ian Wu, Jinu Lee, Xiang Yue, Seongyun Lee, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2503.19877"
     code: "https://github.com/prometheus-eval/scaling-evaluation-compute"
