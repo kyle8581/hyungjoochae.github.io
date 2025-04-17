@@ -37,7 +37,7 @@ papers:
   - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
     year: 2025
     authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
-    venue: "NAACL 2025"
+    venue: "NAACL 2025 (Best Paper Award)"
     paper_pdf: "https://arxiv.org/abs/2406.05761"
     code: "https://github.com/prometheus-eval/prometheus-eval/tree/main/BiGGen-Bench"
     selected: y
@@ -64,7 +64,7 @@ papers:
 
   - title: "Better Instruction-Following Through Minimum Bayes Risk"
     authors: "Ian Wu, Patrick Fernandes, Amanda Bertsch, <b><u>Seungone Kim</u></b>, Sina Pakazad, Graham Neubig"
-    venue: "ICLR 2025"
+    venue: "ICLR 2025 (Spotlight)"
     paper_pdf: "https://arxiv.org/abs/2410.02902"
     selected: y
     
@@ -141,7 +141,7 @@ papers:
 
   - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
     authors: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, <b><u>Seungone Kim</u></b>, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo"
-    venue: "ICLR 2024"
+    venue: "ICLR 2024 (Spotlight)"
     paper_pdf: "https://arxiv.org/abs/2307.10928"
     code: "https://github.com/kaistAI/FLASK"
     selected: y
