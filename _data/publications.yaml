@@ -13,20 +13,6 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2504.04953"
     selected: y
 
-  - title: "Evaluating Language Models as Synthetic Data Generators"
-    authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Xiang Yue, Vijay Viswanathan, Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2412.03679"
-    code: "https://github.com/neulab/data-agora"
-    selected: y
-
-  - title: "LLM-as-an-Interviewer: Beyond Static Testing Through Dynamic LLM Evaluation"
-    authors: "Eunsu Kim, Juyoung Suk, <b><u>Seungone Kim</u></b>, Niklas Muennighoff, Dongkwan Kim, Alice Oh"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2412.10424"
-    code: "https://github.com/interview-eval/interview-eval"
-    selected: y
-
   - title: "MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models"
     authors: "Guijin Son, Dongkeun Yoon, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, Shayekh Bin Islam, Jaume Prats-Cristia, Luc'ia Tormo-Banuelos, <b><u>Seungone Kim</u></b>"
     venue: "Preprint Under Review"
@@ -34,8 +20,22 @@ papers:
     code: "https://github.com/guijinSON/MM-Eval"
     selected: y
 
-  - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
+  - title: "Evaluating Language Models as Synthetic Data Generators"
     year: 2025
+    authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Xiang Yue, Vijay Viswanathan, Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig"
+    venue: "ACL 2025"
+    paper_pdf: "https://arxiv.org/abs/2412.03679"
+    code: "https://github.com/neulab/data-agora"
+    selected: y
+
+  - title: "LLM-as-an-Interviewer: Beyond Static Testing Through Dynamic LLM Evaluation"
+    authors: "Eunsu Kim, Juyoung Suk, <b><u>Seungone Kim</u></b>, Niklas Muennighoff, Dongkwan Kim, Alice Oh"
+    venue: "ACL 2025 (Findings)"
+    paper_pdf: "https://arxiv.org/abs/2412.10424"
+    code: "https://github.com/interview-eval/interview-eval"
+    selected: y
+
+  - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
     authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
     venue: "NAACL 2025 (Best Paper Award)"
     paper_pdf: "https://arxiv.org/abs/2406.05761"
