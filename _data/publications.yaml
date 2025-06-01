@@ -7,6 +7,36 @@ papers:
     code: "https://github.com/prometheus-eval/scaling-evaluation-compute"
     selected: y
 
+  - title: "The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think"
+    authors: "Seongyun Lee*, <b><u>Seungone Kim</u></b>*, Minju Seo, Yongrae Jo, Dongyoung Go, Hyeonbin Hwang, Jinho Park, Xiang Yue, Sean Welleck, Graham Neubig, Moontae Lee, Minjoon Seo"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2505.10185"
+    selected: y
+
+  - title: "Reasoning Models Better Express Their Confidence"
+    authors: "Dongkeun Yoon, <b><u>Seungone Kim</u></b>, Sohee Yang, Sunkyoung Kim, Soyeon Kim, Yongil Kim, Eunbi Choi, Yireun Kim, Minjoon Seo"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2505.14489"
+    selected: y
+
+  - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
+    authors: "Hyungjoo Chae, Sunghwan Kim, Junhee Cho, <b><u>Seungone Kim</u></b>, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://www.arxiv.org/abs/2505.15277"
+    selected: y
+  
+  - title: "Let's Predict Sentence by Sentence"
+    authors: "Hyeonbin Hwang, Byeongguk Jeon, <b><u>Seungone Kim</u></b>, Jiyeon Kim, Hoyeon Chang, Sohee Yang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2505.22202"
+    selected: y
+
+  - title: "FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS"
+    authors: "Chaeeun Kim, <b><u>Seungone Kim</u></b>"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2505.16409"
+    selected: y
+
   - title: "M-Prometheus: A Suite of Open Multilingual LLM Judges"
     authors: "Jose Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, <b><u>Seungone Kim</u></b>, Ricardo Rei, Graham Neubig, Andre F.T. Martins"
     venue: "Preprint Under Review"
