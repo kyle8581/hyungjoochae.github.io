@@ -37,12 +37,6 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2505.16409"
     selected: y
 
-  - title: "M-Prometheus: A Suite of Open Multilingual LLM Judges"
-    authors: "Jose Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, <b><u>Seungone Kim</u></b>, Ricardo Rei, Graham Neubig, Andre F.T. Martins"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2504.04953"
-    selected: y
-
   - title: "MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models"
     authors: "Guijin Son, Dongkeun Yoon, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, Shayekh Bin Islam, Jaume Prats-Cristia, Luc'ia Tormo-Banuelos, <b><u>Seungone Kim</u></b>"
     venue: "Preprint Under Review"
@@ -50,8 +44,14 @@ papers:
     code: "https://github.com/guijinSON/MM-Eval"
     selected: y
 
-  - title: "Evaluating Language Models as Synthetic Data Generators"
+  - title: "M-Prometheus: A Suite of Open Multilingual LLM Judges"
     year: 2025
+    authors: "Jose Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, <b><u>Seungone Kim</u></b>, Ricardo Rei, Graham Neubig, Andre F.T. Martins"
+    venue: "COLM 2025"
+    paper_pdf: "https://arxiv.org/abs/2504.04953"
+    selected: y
+
+  - title: "Evaluating Language Models as Synthetic Data Generators"
     authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Xiang Yue, Vijay Viswanathan, Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig"
     venue: "ACL 2025"
     paper_pdf: "https://arxiv.org/abs/2412.03679"
