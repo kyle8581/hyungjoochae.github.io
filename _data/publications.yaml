@@ -4,98 +4,98 @@ papers:
     authors: "<b><u>Hyungjoo Chae</u></b>, Sunghwan Kim, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2505.15277"
-    selected: y
+    selected: true
 
   - title: "ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions"
     year: 2025
     authors: "Beong-woo Kwak, Minju Kim, Dongha Lim, <b><u>Hyungjoo Chae</u></b>, Dongjin Kang, Sunghwan Kim, Dongil Yang, Jinyoung Yeo"
     venue: "EMNLP 2025 Findings"
     paper_pdf: "https://arxiv.org/abs/2505.23662"
-    selected: y
+    selected: true
 
   - title: "Evaluating Robustness of Reward Models for Mathematical Reasoning"
     authors: "Sunghwan Kim*, Dongjin Kang*, Taeyoon Kwon, <b><u>Hyungjoo Chae</u></b>, Jungsoo Won, Dongha Lee, Jinyoung Yeo"
     venue: "ACL 2025"
     paper_pdf: "https://arxiv.org/abs/2410.01729"
-    selected: y
+    selected: true
 
   - title: "Can You Share Your Story? Modeling Clients' Metacognition and Openness for LLM Therapist Evaluation"
     authors: "Minju Kim, Dongje Yoo, Yeonjun Hwang, Minseok Kang, Namyoung Kim, Minju Gwak, Beong-woo Kwak, <b><u>Hyungjoo Chae</u></b>, Harim Kim, Yunjoong Lee, Min Hee Kim, Dayi Jung, Kyong-Mee Chung, Jinyoung Yeo"
     venue: "ACL 2025 Findings"
     paper_pdf: "https://arxiv.org/abs/2507.19643"
-    selected: y
+    selected: true
 
   - title: "Towards Lifelong Dialogue Agents via Relation-aware Memory Construction and Timeline-augmented Response Generation"
     authors: "Kai Tzu-iunn Ong, Namyoung Kim, Minju Gwak, <b><u>Hyungjoo Chae</u></b>, Taeyoon Kwon, Yohan Jo, Seung-won Hwang, Dongha Lee, Jinyoung Yeo"
     venue: "NAACL 2025"
     paper_pdf: "https://arxiv.org/abs/2406.10996"
-    selected: y
+    selected: true
 
   - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
     authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, ... <b><u>Hyungjoo Chae</u></b> ..., Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
     venue: "NAACL 2025, Best Paper Award"
     paper_pdf: "https://arxiv.org/abs/2406.05761"
-    selected: y
+    selected: true
 
   - title: "Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics"
     authors: "Seungbeen Lee*, Seungwon Lim*, Seungju Han, Giyeong Oh, <b><u>Hyungjoo Chae</u></b>, Jiwan Chung, Minju Kim, Beong-woo Kwak, Yeonsoo Lee, Dongha Lee, Jinyoung Yeo, Youngjae Yu"
     venue: "NAACL 2025 Findings"
     paper_pdf: "https://arxiv.org/abs/2505.12763"
-    selected: y
+    selected: true
 
   - title: "Web Agents With World Models: Learning and Leveraging Environment Dynamics in Web Navigation"
     authors: "<b><u>Hyungjoo Chae</u></b>, Namyoung Kim, Kai Tzu-iunn Ong, Minju Gwak, Gwanwoo Song, Jihoon Kim, Sunghwan Kim, Dongha Lee, Jinyoung Yeo"
     venue: "ICLR 2025 / NeurIPS 2024 Sys2Reasonig at Scale Workshop"
     paper_pdf: "https://arxiv.org/abs/2505.15277"
-    selected: y
+    selected: true
 
   - title: "COFFEE-GYM: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code"
     year: 2024
     authors: "<b><u>Hyungjoo Chae</u></b>*, Taeyoon Kwon*, Seungjun Moon*, Yongho Song, Dongjin Kang, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo"
     venue: "EMNLP 2024"
     paper_pdf: "https://arxiv.org/abs/2404.02575"
-    selected: y
+    selected: true
 
   - title: "Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models"
     authors: "<b><u>Hyungjoo Chae</u></b>, Yeonghyeon Kim, Seungone Kim, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo"
     venue: "EMNLP 2024 / ACL 2024 NLRSE Workshop"
     paper_pdf: "https://arxiv.org/abs/2404.02575"
-    selected: y
+    selected: true
 
   - title: "Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering"
     authors: "Sungho Ko*, Hyunjin Cho*, <b><u>Hyungjoo Chae</u></b>, Jinyoung Yeo, Dongha Lee"
     venue: "EMNLP 2024"
     paper_pdf: "https://arxiv.org/abs/2404.02575"
-    selected: y
+    selected: true
 
   - title: "VERIFINER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models"
     authors: "Seoyeon Kim*, Kwangwook Seo*, <b><u>Hyungjoo Chae</u></b>, Jinyoung Yeo, Dongha Lee"
     venue: "ACL 2024"
     paper_pdf: "https://arxiv.org/abs/2404.02575"
-    selected: y
+    selected: true
 
   - title: "Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents"
     year: 2023
     authors: "<b><u>Hyungjoo Chae</u></b>*, Yongho Song*, Kai Tzu-iunn Ong, Taeyoon Kwon, Minjin Kim, Youngjae Yu, Dongha Lee, Dongyeop Kang, Jinyoung Yeo"
     venue: "EMNLP 2023"
     paper_pdf: "https://arxiv.org/abs/2303.03628"
-    selected: y
+    selected: true
 
   - title: "CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification"
     authors: "Seungone Kim, Sejune Joo, Yul Jang, <b><u>Hyungjoo Chae</u></b>, Jinyoung Yeo"
     venue: "EACL 2023 System Demonstrations"
     paper_pdf: "https://arxiv.org/abs/2303.03628"
-    selected: y
+    selected: true
 
   - title: "TUTORING: Instruction-grounded Conversational Agent for Language Learners"
     authors: "<b><u>Hyungjoo Chae</u></b>, Minjin Kim, Chaehyeong Kim, Won Seok Jeong, Hye Soong Kim, June Myung Lee, Jinyoung Yeo"
     venue: "AAAI 2023: System Demonstrations"
     paper_pdf: "https://arxiv.org/abs/2303.03628"
-    selected: y
+    selected: true
 
   - title: "Mind the Gap! Injecting Commonsense Knowledge for Abstractive Dialogue Summarization"
     year: 2022
     authors: "Seungone Kim*, SeJune Joo*, <b><u>Hyungjoo Chae</u></b>*, Chaehyeong Kim*, Seung-won Hwang, Jinyoung Yeo"
     venue: "COLING 2022"
     paper_pdf: "https://arxiv.org/abs/2209.00930"
-    selected: y
+    selected: true

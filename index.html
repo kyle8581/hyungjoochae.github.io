@@ -133,7 +133,7 @@ layout: default
 
   <div class="tab-content">
     <div class="tab-pane active" id="papers-selected">
-      {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
+      {% assign selected_papers = site.data.publications.papers | where: "selected", true %}
       {% for paper in selected_papers %}
         <div class="paper">
           <div class="row">
@@ -236,7 +236,7 @@ layout: default
 
   <div class="tab-content">
     <div class="tab-pane active" id="projects-selected">
-      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
+      {% assign selected_projects = site.data.projects.projects | where: "selected", true %}
       {% for project in selected_projects %}
         {% assign index_modulo = forloop.index0 | modulo:3 %}
         {% if index_modulo == 0 %}

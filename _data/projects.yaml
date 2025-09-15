@@ -3,28 +3,28 @@ projects:
     subtitle: "A reinforcement learning framework for training web agents using process reward models"
     thumbnail: "/assets/publications/2025_web_shepherd/web_shepherd.png"
     url: "https://arxiv.org/abs/2505.15277"
-    selected: y
+    selected: true
 
   - title: "COFFEE-GYM: Code Feedback Environment"
     subtitle: "An environment for evaluating and improving natural language feedback on erroneous code"
     thumbnail: "/assets/publications/2024_emnlp/coffee_gym.png"
     url: "https://arxiv.org/abs/2404.02575"
-    selected: y
+    selected: true
 
   - title: "Language Models as Compilers"
     subtitle: "Simulating pseudocode execution improves algorithmic reasoning in language models"
     thumbnail: "/assets/publications/2024_emnlp/compiler.png"
     url: "https://arxiv.org/abs/2404.02575"
-    selected: y
+    selected: true
 
   - title: "TUTORING: Conversational Agent for Language Learners"
     subtitle: "Instruction-grounded conversational agent designed for language learning"
     thumbnail: "/assets/publications/2023_aaai/tutoring.png"
     url: "https://arxiv.org/abs/2303.03628"
-    selected: y
+    selected: true
 
   - title: "CoTEVer: Chain of Thought Verification Toolkit"
     subtitle: "Annotation toolkit for explanation verification in chain-of-thought reasoning"
     thumbnail: "/assets/publications/2023_eacl/cotever.PNG"
     url: "https://github.com/SeungoneKim/CoTEVer"
-    selected: y
+    selected: true
