@@ -1,214 +1,101 @@
 papers:
-  - title: "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
-    year: Preprints
-    authors: "<b><u>Seungone Kim</u></b>*, Ian Wu*, Jinu Lee*, Xiang Yue, Seongyun Lee, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2503.19877"
-    code: "https://github.com/prometheus-eval/scaling-evaluation-compute"
-    selected: y
-
-  - title: "The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think"
-    authors: "Seongyun Lee*, <b><u>Seungone Kim</u></b>*, Minju Seo, Yongrae Jo, Dongyoung Go, Hyeonbin Hwang, Jinho Park, Xiang Yue, Sean Welleck, Graham Neubig, Moontae Lee, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2505.10185"
-    selected: y
-
-  - title: "Reasoning Models Better Express Their Confidence"
-    authors: "Dongkeun Yoon, <b><u>Seungone Kim</u></b>, Sohee Yang, Sunkyoung Kim, Soyeon Kim, Yongil Kim, Eunbi Choi, Yireun Kim, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2505.14489"
-    selected: y
-
   - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
-    authors: "Hyungjoo Chae, Sunghwan Kim, Junhee Cho, <b><u>Seungone Kim</u></b>, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
+    year: Preprints
+    authors: "<b><u>Hyungjoo Chae</u></b>, Sunghwan Kim, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
     venue: "Preprint Under Review"
-    paper_pdf: "https://www.arxiv.org/abs/2505.15277"
-    selected: y
-  
-  - title: "Let's Predict Sentence by Sentence"
-    authors: "Hyeonbin Hwang, Byeongguk Jeon, <b><u>Seungone Kim</u></b>, Jiyeon Kim, Hoyeon Chang, Sohee Yang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2505.22202"
+    paper_pdf: "https://arxiv.org/abs/2505.15277"
     selected: y
 
-  - title: "FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS"
-    authors: "Chaeeun Kim, <b><u>Seungone Kim</u></b>"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2505.16409"
-    selected: y
-
-  - title: "MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models"
-    authors: "Guijin Son, Dongkeun Yoon, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, Shayekh Bin Islam, Jaume Prats-Cristia, Luc'ia Tormo-Banuelos, <b><u>Seungone Kim</u></b>"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2410.17578"
-    code: "https://github.com/guijinSON/MM-Eval"
-    selected: y
-
-  - title: "M-Prometheus: A Suite of Open Multilingual LLM Judges"
+  - title: "ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions"
     year: 2025
-    authors: "Jose Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, <b><u>Seungone Kim</u></b>, Ricardo Rei, Graham Neubig, Andre F.T. Martins"
-    venue: "COLM 2025"
-    paper_pdf: "https://arxiv.org/abs/2504.04953"
+    authors: "Beong-woo Kwak, Minju Kim, Dongha Lim, <b><u>Hyungjoo Chae</u></b>, Dongjin Kang, Sunghwan Kim, Dongil Yang, Jinyoung Yeo"
+    venue: "EMNLP 2025 Findings"
+    paper_pdf: "https://arxiv.org/abs/2505.23662"
     selected: y
 
-  - title: "Evaluating Language Models as Synthetic Data Generators"
-    authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Xiang Yue, Vijay Viswanathan, Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig"
+  - title: "Evaluating Robustness of Reward Models for Mathematical Reasoning"
+    authors: "Sunghwan Kim*, Dongjin Kang*, Taeyoon Kwon, <b><u>Hyungjoo Chae</u></b>, Jungsoo Won, Dongha Lee, Jinyoung Yeo"
     venue: "ACL 2025"
-    paper_pdf: "https://arxiv.org/abs/2412.03679"
-    code: "https://github.com/neulab/data-agora"
+    paper_pdf: "https://arxiv.org/abs/2410.01729"
     selected: y
 
-  - title: "LLM-as-an-Interviewer: Beyond Static Testing Through Dynamic LLM Evaluation"
-    authors: "Eunsu Kim, Juyoung Suk, <b><u>Seungone Kim</u></b>, Niklas Muennighoff, Dongkwan Kim, Alice Oh"
-    venue: "ACL 2025 (Findings)"
-    paper_pdf: "https://arxiv.org/abs/2412.10424"
-    code: "https://github.com/interview-eval/interview-eval"
+  - title: "Can You Share Your Story? Modeling Clients' Metacognition and Openness for LLM Therapist Evaluation"
+    authors: "Minju Kim, Dongje Yoo, Yeonjun Hwang, Minseok Kang, Namyoung Kim, Minju Gwak, Beong-woo Kwak, <b><u>Hyungjoo Chae</u></b>, Harim Kim, Yunjoong Lee, Min Hee Kim, Dayi Jung, Kyong-Mee Chung, Jinyoung Yeo"
+    venue: "ACL 2025 Findings"
+    paper_pdf: "https://arxiv.org/abs/2507.19643"
+    selected: y
+
+  - title: "Towards Lifelong Dialogue Agents via Relation-aware Memory Construction and Timeline-augmented Response Generation"
+    authors: "Kai Tzu-iunn Ong, Namyoung Kim, Minju Gwak, <b><u>Hyungjoo Chae</u></b>, Taeyoon Kwon, Yohan Jo, Seung-won Hwang, Dongha Lee, Jinyoung Yeo"
+    venue: "NAACL 2025"
+    paper_pdf: "https://arxiv.org/abs/2406.10996"
     selected: y
 
   - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
-    authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
-    venue: "NAACL 2025 (Best Paper Award)"
+    authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, ... <b><u>Hyungjoo Chae</u></b> ..., Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+    venue: "NAACL 2025, Best Paper Award"
     paper_pdf: "https://arxiv.org/abs/2406.05761"
-    code: "https://github.com/prometheus-eval/prometheus-eval/tree/main/BiGGen-Bench"
     selected: y
 
-  - title: "KMMLU: Measuring Massive Multitask Language Understanding in Korean"
-    authors: "Guijin Son, Hanwool Lee, Sungdong Kim, <b><u>Seungone Kim</u></b>, Niklas Muennighoff, Taekyoon Choi, Cheonbok Park, Kang Min Yoo, Stella Biderman"
-    venue: "NAACL 2025"
-    paper_pdf: "https://arxiv.org/abs/2402.11548"
-    code: "https://github.com/EleutherAI/lm-evaluation-harness/tree/4eba9cf390e2bcee120c3612119fd9b13407f290/lm_eval/tasks/kmmlu"
+  - title: "Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics"
+    authors: "Seungbeen Lee*, Seungwon Lim*, Seungju Han, Giyeong Oh, <b><u>Hyungjoo Chae</u></b>, Jiwan Chung, Minju Kim, Beong-woo Kwak, Yeonsoo Lee, Dongha Lee, Jinyoung Yeo, Youngjae Yu"
+    venue: "NAACL 2025 Findings"
+    paper_pdf: "https://arxiv.org/abs/2505.12763"
     selected: y
 
-  - title: "Bridging the Data Provenance Gap Across Text, Speech, and Video"
-    authors: "Shayne Longpre, Nikhil Singh, Manuel Cherep, Kushagra Tiwary, Joanna Materzynska, William Brannon, Robert Mahari, Manan Dey, Mohammed Hamdy, Nayan Saxena, Ahmad Mustafa Anis, Emad A. Alghamdi, Vu Minh Chien, Naana Obeng-Marnu, Da Yin, Kun Qian, Yizhi LI, Minnie Liang, An Dinh, Shrestha Mohanty, Deividas Mataciunas, Tobin South, Jianguo Zhang, Ariel N. Lee, Campbell S. Lund, Christopher Klamm, Damien Sileo, Diganta Misra, Enrico Shippole, Kevin Klyman, Lester James Validad Miranda, Niklas Muennighoff, Seonghyeon Ye, <b><u>Seungone Kim</u></b>, Vipul Gupta, Vivek Sharma, Xuhui Zhou, Caiming Xiong, Luis Villa, Stella Biderman, Alex Pentland, Sara Hooker, Jad Kabbara"
-    venue: "ICLR 2025"
-    paper_pdf: "https://arxiv.org/abs/2412.17847"
+  - title: "Web Agents With World Models: Learning and Leveraging Environment Dynamics in Web Navigation"
+    authors: "<b><u>Hyungjoo Chae</u></b>, Namyoung Kim, Kai Tzu-iunn Ong, Minju Gwak, Gwanwoo Song, Jihoon Kim, Sunghwan Kim, Dongha Lee, Jinyoung Yeo"
+    venue: "ICLR 2025 / NeurIPS 2024 Sys2Reasonig at Scale Workshop"
+    paper_pdf: "https://arxiv.org/abs/2505.15277"
     selected: y
 
-  - title: "Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages"
-    authors: "Xiang Yue, Yueqi Song, Akari Asai, <b><u>Seungone Kim</u></b>, Jean de Dieu Nyandwi, Simran Khanuja, Anjali Kantharuban, Lintang Sutawika, Sathyanarayanan Ramamoorthy, Graham Neubig"
-    venue: "ICLR 2025"
-    paper_pdf: "https://arxiv.org/abs/2410.16153"
-    code: "https://github.com/neulab/Pangea"
-    selected: y
-
-  - title: "Better Instruction-Following Through Minimum Bayes Risk"
-    authors: "Ian Wu, Patrick Fernandes, Amanda Bertsch, <b><u>Seungone Kim</u></b>, Sina Pakazad, Graham Neubig"
-    venue: "ICLR 2025 (Spotlight)"
-    paper_pdf: "https://arxiv.org/abs/2410.02902"
-    selected: y
-    
-  - title: "Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models"
-    year: "2024"
-    authors: "<b><u>Seungone Kim</u></b>*, Juyoung Suk*, Shayne Longpre, Bill Yuchen Lin, Jamin Shin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+  - title: "COFFEE-GYM: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code"
+    year: 2024
+    authors: "<b><u>Hyungjoo Chae</u></b>*, Taeyoon Kwon*, Seungjun Moon*, Yongho Song, Dongjin Kang, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo"
     venue: "EMNLP 2024"
-    paper_pdf: "https://arxiv.org/abs/2405.01535"
-    code: "https://github.com/prometheus-eval/prometheus-eval"
-    selected: y
-
-  - title: "Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards"
-    authors: "Hyeonbin Hwang, Doyoung Kim, <b><u>Seungone Kim</u></b>, Seonghyeon Ye, Minjoon Seo"
-    venue: "EMNLP 2024 Findings"
-    paper_pdf: "https://arxiv.org/abs/2404.10346"
-    code: "https://github.com/hbin0701/Self-Explore"
+    paper_pdf: "https://arxiv.org/abs/2404.02575"
     selected: y
 
   - title: "Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models"
-    authors: "Hyungjoo Chae, Yeonghyeon Kim, <b><u>Seungone Kim</u></b>, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo"
+    authors: "<b><u>Hyungjoo Chae</u></b>, Yeonghyeon Kim, Seungone Kim, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo"
+    venue: "EMNLP 2024 / ACL 2024 NLRSE Workshop"
+    paper_pdf: "https://arxiv.org/abs/2404.02575"
+    selected: y
+
+  - title: "Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering"
+    authors: "Sungho Ko*, Hyunjin Cho*, <b><u>Hyungjoo Chae</u></b>, Jinyoung Yeo, Dongha Lee"
     venue: "EMNLP 2024"
     paper_pdf: "https://arxiv.org/abs/2404.02575"
-    code: "https://github.com/kyle8581/LanguageModelsasCompilers"
     selected: y
 
-  - title: "Consent in Crisis: The Rapid Decline of the AI Data Commons"
-    authors: "Shayne Longpre, Robert Mahari, Ariel Lee, Campbell Lund, Hamidah Oderinwale, William Brannon, Nayan Saxena, Naana Obeng-Marnu, Tobin South, Cole Hunter, Kevin Klyman, Christopher Klamm, Hailey Schoelkopf, Nikhil Singh, Manuel Cherep, Ahmad Anis, An Dinh, Caroline Chitongo, Da Yin, Damien Sileo, Deividas Mataciunas, Diganta Misra, Emad Alghamdi, Enrico Shippole, Jianguo Zhang, Joanna Materzynska, Kun Qian, Kush Tiwary, Lester James Validad Miranda, Manan Dey, Minnie Liang, Mohammed Hamdy, Niklas Muennighoff, Seonghyeon Ye, <b><u>Seungone Kim</u></b>, Shrestha Mohanty, Vipul Gupta, Vivek Sharma, Vu Minh Chien, Xuhui Zhou, Yizhi Li, Caiming Xiong, Luis Villa, Stella Biderman, Hanlin Li, Daphne Ippolito, Sara Hooker, Jad Kabbara, Sandy Pentland"
-    venue: "NeurIPS 2024"
-    paper_pdf: "https://arxiv.org/abs/2407.14933"
-    code: "https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection"
-    selected: y
-
-  - title: "Aligning to Thousands of Preferences via System Prompt Generalization"
-    authors: "Seongyun Lee*, Sue Hyun Park*, <b><u>Seungone Kim</u></b>, Minjoon Seo"
-    venue: "NeurIPS 2024"
-    paper_pdf: "https://arxiv.org/abs/2405.17977"
-    code: "https://github.com/kaistAI/Janus"
-    selected: y
-
-  - title: "Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging"
-    authors: "Joel Jang, <b><u>Seungone Kim</u></b>, Bill Yuchen Lin, Yizhong Wang, Jack Hessel, Luke Zettlemoyer, Hannaneh Hajishirzi, Yejin Choi, Prithviraj Ammanabrolu"
-    venue: "NeurIPS 2024 AFM Workshop"
-    paper_pdf: "https://arxiv.org/abs/2310.11564"
-    code: "https://github.com/joeljang/RLPHF"
-    selected: y
-
-  - title: "Prometheus-Vision: Vision-Language Model as a Judge for Fine-grained Evaluation"
-    authors: "Seongyun Lee*, <b><u>Seungone Kim</u></b>*, Sue Hyun Park, Geewook Kim, Minjoon Seo"
-    venue: "ACL 2024 Findings"
-    paper_pdf: "https://arxiv.org/abs/2401.06591"
-    code: "https://github.com/kaistAI/prometheus-vision"
-    selected: y
-
-  - title: "LangBridge: Multilingual Reasoning without Multilingual Supervision"
-    authors: "Dongkeun Yoon, Joel Jang, Sungdong Kim, <b><u>Seungone Kim</u></b>, Sheikh Shafayat, Minjoon Seo"
+  - title: "VERIFINER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models"
+    authors: "Seoyeon Kim*, Kwangwook Seo*, <b><u>Hyungjoo Chae</u></b>, Jinyoung Yeo, Dongha Lee"
     venue: "ACL 2024"
-    paper_pdf: "https://arxiv.org/abs/2401.10695"
-    code: "https://github.com/kaistAI/LangBridge"
+    paper_pdf: "https://arxiv.org/abs/2404.02575"
     selected: y
 
-  - title: "Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?"
-    authors: "Guijin Son*, Sangwon Baek, Sangdae Nam, Ilgyun Jeong, <b><u>Seungone Kim</u></b>*"
-    venue: "ACL 2024"
-    paper_pdf: "https://arxiv.org/abs/2402.11597"
-    code: "https://github.com/guijinSON/MTI-Bench"
-    selected: y
-
-  - title: "Prometheus: Inducing Fine-grained Evaluation Capability in Language Models"
-    authors: "<b><u>Seungone Kim</u></b>*, Jamin Shin*, Yejin Cho*, Joel Jang, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo"
-    venue: "ICLR 2024"
-    paper_pdf: "https://arxiv.org/abs/2310.08491"
-    code: "https://github.com/kaistAI/Prometheus"
-    selected: y
-
-  - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
-    authors: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, <b><u>Seungone Kim</u></b>, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo"
-    venue: "ICLR 2024 (Spotlight)"
-    paper_pdf: "https://arxiv.org/abs/2307.10928"
-    code: "https://github.com/kaistAI/FLASK"
-    selected: y
-
-  - title: "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-tuning"
-    year: "2023"
-    authors: "<b><u>Seungone Kim</u></b>*, Se June Joo*, Doyoung Kim, Joel Jang, Seonghyeon Ye, Jamin Shin, Minjoon Seo"
+  - title: "Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents"
+    year: 2023
+    authors: "<b><u>Hyungjoo Chae</u></b>*, Yongho Song*, Kai Tzu-iunn Ong, Taeyoon Kwon, Minjin Kim, Youngjae Yu, Dongha Lee, Dongyeop Kang, Jinyoung Yeo"
     venue: "EMNLP 2023"
-    paper_pdf: "https://arxiv.org/abs/2305.14045"
-    code: "https://github.com/kaist-lklab/CoT-Collection"
+    paper_pdf: "https://arxiv.org/abs/2303.03628"
     selected: y
 
-  - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
-    authors: "Joel Jang, <b><u>Seungone Kim</u></b>, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
-    venue: "ICML 2023"
-    paper_pdf: "https://arxiv.org/abs/2302.03202"
-    code: "https://github.com/joeljang/ELM"
-    selected: y
-  
   - title: "CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification"
-    authors: "<b><u>Seungone Kim</u></b>, Se June Joo, Yul Jang, Hyungjoo Chae, Jinyoung Yeo"
-    venue: "EACL 2023 Demo Track"
+    authors: "Seungone Kim, Sejune Joo, Yul Jang, <b><u>Hyungjoo Chae</u></b>, Jinyoung Yeo"
+    venue: "EACL 2023 System Demonstrations"
     paper_pdf: "https://arxiv.org/abs/2303.03628"
-    code: "https://github.com/SeungoneKim/CoTEVer"
+    selected: y
+
+  - title: "TUTORING: Instruction-grounded Conversational Agent for Language Learners"
+    authors: "<b><u>Hyungjoo Chae</u></b>, Minjin Kim, Chaehyeong Kim, Won Seok Jeong, Hye Soong Kim, June Myung Lee, Jinyoung Yeo"
+    venue: "AAAI 2023: System Demonstrations"
+    paper_pdf: "https://arxiv.org/abs/2303.03628"
     selected: y
 
   - title: "Mind the Gap! Injecting Commonsense Knowledge for Abstractive Dialogue Summarization"
-    year: "2022"
-    authors: "<b><u>Seungone Kim</u></b>*, Se June Joo*, Hyungjoo Chae*, Chaehyeong Kim, Seung-won Hwang, Jinyoung Yeo"
+    year: 2022
+    authors: "Seungone Kim*, SeJune Joo*, <b><u>Hyungjoo Chae</u></b>*, Chaehyeong Kim*, Seung-won Hwang, Jinyoung Yeo"
     venue: "COLING 2022"
     paper_pdf: "https://arxiv.org/abs/2209.00930"
-    code: "https://github.com/SeungoneKim/SICK_Summarization"
     selected: y
-
-  - title: "SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding"
-    authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Se june Joo, Woojin Cho, JeongEun Nah"
-    venue: "Annual Conference of Korean Information Processing Society 2021"
-    paper_pdf: "http://manuscriptlink-society-file.s3.amazonaws.com/kips/conference/ack2021/abs/KIPS_C2021B0211.pdf"
-    code: "https://github.com/SeungoneKim/SGMLP"
-    selected: n
