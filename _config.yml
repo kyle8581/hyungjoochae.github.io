@@ -1,7 +1,32 @@
+# Site settings
+title: "Hyungjoo Chae"
+email: "hchae36@gatech.edu"
+description: "Ph.D. Student at Georgia Institute of Technology"
+baseurl: ""
+url: "https://hyungjoochae.github.io"
+
+# Build settings
 source:      .
 destination: ./_site
 includes:    ./_includes
+layouts:     ./_layouts
+data:        ./_data
 
+# Collections
 collections:
   projects:
     output: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
