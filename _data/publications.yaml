@@ -1,13 +1,12 @@
 papers:
   - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
-    year: Preprints
+    year: 2025
     authors: "<b><u>Hyungjoo Chae</u></b>, Sunghwan Kim, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
-    venue: "Preprint Under Review"
+    venue: "NeurIPS 2025 (Spotlight)"
     paper_pdf: "https://arxiv.org/abs/2505.15277"
     selected: true
 
   - title: "ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions"
-    year: 2025
     authors: "Beong-woo Kwak, Minju Kim, Dongha Lim, <b><u>Hyungjoo Chae</u></b>, Dongjin Kang, Sunghwan Kim, Dongil Yang, Jinyoung Yeo"
     venue: "EMNLP 2025 Findings"
     paper_pdf: "https://arxiv.org/abs/2505.23662"
