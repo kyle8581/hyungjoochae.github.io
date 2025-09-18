@@ -1,7 +1,7 @@
 papers:
   - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
     year: 2025
-    authors: "<b><u>Hyungjoo Chae</u></b>, Sunghwan Kim, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
+    authors: "<b><u>Hyungjoo Chae</u></b>*, Sunghwan Kim*, Junhee Cho*, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
     venue: "NeurIPS 2025 (Spotlight)"
     paper_pdf: "https://arxiv.org/abs/2505.15277"
     selected: true
