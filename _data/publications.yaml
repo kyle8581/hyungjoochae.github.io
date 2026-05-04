@@ -1,4 +1,12 @@
 papers:
+  - title: "Safe and Scalable Web Agent Learning via Recreated Websites"
+    year: 2026
+    authors: "<b><u>Hyungjoo Chae</u></b>, Jungsoo Park, Alan Ritter"
+    venue: "ICML 2026"
+    paper_pdf: "https://arxiv.org/abs/2603.10505"
+    selected: true
+
+
   - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
     year: 2025
     authors: "<b><u>Hyungjoo Chae</u></b>*, Sunghwan Kim*, Junhee Cho*, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
